@@ -1,1 +1,1 @@
-http://bic.ta22.my.id:8080/idm/
+http://s3.ta22.my.id:1111/speedtest/
