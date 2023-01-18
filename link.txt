@@ -1,1 +1,1 @@
-http://s3.ta22.my.id:1111/speedtest/
+http://s3.ta22.my.id:1111/idm/
