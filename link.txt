@@ -1,1 +1,1 @@
-http://13.229.99.98:81/idm
+http://s3.lalskomputer.my.id/idm
