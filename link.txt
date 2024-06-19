@@ -1,1 +1,2 @@
 http://bicmdo.lalskomputer.my.id/idm
+https://www.veeble.org/kb/install-gui-ubuntu-vps/ (install vnc server)
