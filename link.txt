@@ -1,2 +1,3 @@
 http://bicmdo.lalskomputer.my.id/idm
 https://www.veeble.org/kb/install-gui-ubuntu-vps/ (install vnc server)
+https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04 (ADD SWAP)
